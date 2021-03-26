@@ -2,7 +2,7 @@
 
 #JavaRX
 
-Sprng Web Flux
+Spring Web Flux
 
 #webflux
 
@@ -15,3 +15,4 @@ MongoReactive
 
 #mongo
 #docker
+Spring Reactive
